@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "527503896431",
+    "project_id": "raksha-safety-app-e0baa",
+    "storage_bucket": "raksha-safety-app-e0baa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527503896431:android:a20e285c3138c70fe5429a",
+        "android_client_info": {
+          "package_name": "com.rakshaapp.raksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527503896431-c0jeomm67e8fap8b8usa60pccvoib5dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rakshaapp.raksha",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "527503896431-04kb9dlvoe6pg7kq3vm8i7pr77bd7cam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsmcMUUApYH8BbGLJ-EyqfQZQ67opRqM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527503896431-04kb9dlvoe6pg7kq3vm8i7pr77bd7cam.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527503896431-ad3shm2dnecmbudd119tubnb5kv16ht4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.rakshasafety"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

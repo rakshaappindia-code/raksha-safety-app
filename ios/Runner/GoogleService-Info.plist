@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>527503896431-mlneolm9t3f1l2ic2uajp9d0itr0g0af.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.527503896431-mlneolm9t3f1l2ic2uajp9d0itr0g0af</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>527503896431-c0jeomm67e8fap8b8usa60pccvoib5dr.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQnpN5vzA4nC1_K9TtSK5LzSoecU9sBXU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527503896431</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rakshaapp.raksha</string>
+	<key>PROJECT_ID</key>
+	<string>raksha-safety-app-e0baa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>raksha-safety-app-e0baa.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527503896431:ios:9b7e5fd4a7384e9de5429a</string>
+</dict>
+</plist>
